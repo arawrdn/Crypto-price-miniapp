@@ -22,7 +22,7 @@ The price data auto-refreshes every 15 seconds.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/crypto-price-miniapp.git
+git clone https://github.com/arawrdn/crypto-price-miniapp.git
 cd crypto-price-miniapp
 
 # 2. Install dependencies
